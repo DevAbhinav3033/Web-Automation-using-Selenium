@@ -1,0 +1,18 @@
+Different automation frameworks are as follows:
+
+1.Linear Scripting Framework: Sequential test script execution.
+2.Modular Testing Framework: Test scripts broken into reusable   modules.
+3.Data-Driven Testing Framework: Separate test data from scripts,     useful for multiple inputs.
+4.Keyword-Driven Testing Framework: Test cases written using     keywords, automated based on keywords.
+6.Hybrid Testing Framework: Combines different frameworks for   flexibility.
+7.Behavior-Driven Development (BDD) Framework: Encourages   collaboration and focuses on behavior.
+
+Test Automation Frameworks examples:
+1. Selenium
+2. Cypress
+3. Playwright
+4. WebDriverIO
+5. TestCafe
+6. NightwatchJS
+7. Appium
+8. Cucumber
