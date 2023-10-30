@@ -2,8 +2,6 @@
 
 ## Features
 
-### Auth
-
 - Automated drag and drop
 - Fetch current page URL
 - Fetch dropdown options list
